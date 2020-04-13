@@ -1,0 +1,7 @@
+1.git status
+
+2.git add .    或 git add 名字
+
+3.git commit -m '需要的注释'
+
+4.git push origin master
